@@ -1,1 +1,1 @@
-# Kali.linux
+# AutoZK.py
